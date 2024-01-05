@@ -28,4 +28,4 @@ Thumbs.db
 *.unitypackage
 
 # Build artifacts
-Builds/
+Build/
