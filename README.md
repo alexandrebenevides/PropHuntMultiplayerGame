@@ -1,1 +1,1 @@
-# PropHuntGame
+# PropHuntMultiplayerGame

@@ -1,0 +1,31 @@
+# Unity generated
+Library/
+Temp/
+Obj/
+UnityGenerated/
+
+# Visual Studio / MonoDevelop
+.vscode/
+.idea/
+*.sln
+*.csproj
+*.pidb
+*.userprefs
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Compiled and temporary files
+*.log
+*.lock
+*.apk
+*.unitypackage
+
+# Build artifacts
+Builds/
