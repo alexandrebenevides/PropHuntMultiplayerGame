@@ -10,7 +10,7 @@ public class Connection : MonoBehaviourPunCallbacks
 {
     [SerializeField]
     private InputField loginField;
-    private const string ROOM_NAME = "room";
+    private const string ROOM_NAME = "primary_room";
 
     public void DoLogin()
     {

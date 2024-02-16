@@ -34,7 +34,8 @@ public class CharacterMovement : MonoBehaviour
             playerCamera.enabled = true;
             Cursor.lockState = CursorLockMode.Locked;
             Cursor.visible = false;
-        } else
+        } 
+        else
         {
             GetComponentInChildren<Camera>().enabled = false;
         }

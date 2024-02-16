@@ -11,6 +11,7 @@ UnityGenerated/
 *.csproj
 *.pidb
 *.userprefs
+.vs/
 
 # OS generated
 .DS_Store
